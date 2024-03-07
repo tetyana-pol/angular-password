@@ -1,0 +1,23 @@
+.gray {
+  height: 15px;
+  width: 50%;
+  background-color: grey;
+}
+
+.red {
+  height: 15px;
+  width: 50%;
+  background-color: red;
+}
+
+.yellow {
+  height: 15px;
+  width: 50%;
+  background-color: yellow;
+}
+
+.green {
+  height: 15px;
+  width: 50%;
+  background-color: green;
+}
